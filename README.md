@@ -309,8 +309,6 @@ image asset.
 ------------------------------------------------------------------------
 
 
-## 📚 Learning & Training Projects
-
 I also maintain smaller projects and experiments that reflect my learning journey and continuous improvement in software development.
 
 These projects helped me strengthen my knowledge of:
