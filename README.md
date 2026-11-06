@@ -61,23 +61,143 @@ I enjoy building practical applications, solving real-world problems, and writin
 
 ### 🏢 AI-Powered Real Estate CRM System
 
-A multi-component real estate management ecosystem built with Flutter, including mobile applications and a web-based CRM.
+An AI-powered real estate management ecosystem designed to connect customers, real estate consultants, employees, managers, and support teams through an integrated platform.
 
-The system includes customer and real estate consultant applications, along with a Flutter Web CRM for managing properties, customers, employees, and business operations.
+The system consists of three main applications:
+
+1. **Customer Mobile Application** – Enables customers to discover properties, explore property details, submit requests, communicate with the company, and receive personalized recommendations.
+2. **Property Inspector / Real Estate Consultant Application** – Helps real estate consultants manage assigned property requests, schedule visits, and perform property inspections.
+3. **Flutter Web CRM** – Provides managers and employees with tools to manage properties, customers, leads, employees, deals, schedules, and business operations.
+
+The platform combines property management, customer relationship management, real-time communication, and AI-assisted workflows.
+
+#### 📱 1. Customer Mobile Application
+
+A Flutter mobile application that provides a complete property discovery and customer interaction experience.
 
 **Key Features:**
-- Property search, filtering, and recommendations
-- Customer requests and lead management
-- Real-time chat and notifications
-- Scheduling and appointment management
-- Role-Based Access Control
-- AI-Powered Lead Scoring
-- Customer and Employee Recommendations
-- Maps and location-based features
 
-**Technologies:**
+- Property browsing, searching, and advanced filtering.
+- Detailed property information, images, facilities, and locations.
+- Interactive maps using OpenStreetMap.
+- Property favorites and personalized recommendations.
+- Different customer journeys for Visitors, Leads, and Clients.
+- Property purchase and rental requests.
+- Property owner listing requests.
+- Property and deal status tracking.
+- Notifications and updates.
+- Deal-based communication and real-time chat.
+- Customer support and profile management.
+- Virtual property tours.
+- Authentication and OTP-based password recovery.
 
-Flutter · Dart · Flutter Web · Clean Architecture · Provider · REST APIs · Node.js · PostgreSQL · Socket.IO · Firebase · Hive · OpenStreetMap
+🔗 **GitHub Repository:**  
+[Customer Mobile Application](https://github.com/AhmadAdnanIssa/-Customer_App-EstatelQ-)
+
+#### 🏠 2. Property Inspector / Real Estate Consultant Application
+
+A Flutter mobile application designed for real estate consultants to manage assigned property requests and carry out property inspections.
+
+The application supports the operational workflow between the company, customers, and field consultants.
+
+**Key Features:**
+
+- Consultant authentication and account management.
+- View and manage incoming property requests.
+- Access customer and property information.
+- View property images and location details.
+- Manage and schedule property visits.
+- Perform property inspections through structured forms.
+- Record room details and upload room images.
+- Document property facilities and amenities.
+- Capture and manage property location information.
+- Update request statuses and follow inspection workflows.
+
+🔗 **GitHub Repository:**  
+[Property Inspector / Real Estate Consultant Application](https://github.com/AhmadAdnanIssa/Real_Estate_Consultant)
+
+#### 💻 3. Flutter Web CRM – Company Management Platform
+
+A web-based CRM platform built with Flutter Web to support the company's internal operations and management workflows.
+
+The platform provides role-based functionality for different company teams, including:
+
+- General Manager
+- Sales Manager
+- Sales and Rental Employees
+- Property Registration Employees
+- Technical Support Team
+- Real Estate Consultants
+
+**Key Features:**
+
+- Role-Based Access Control (RBAC).
+- Employee and property management.
+- Customer, lead, and deal management.
+- Smart assignment of leads and property requests.
+- Management dashboards and business statistics.
+- Employee performance monitoring and insights.
+- Scheduling and appointment management.
+- Real-time communication and notifications.
+- Customer support tickets and follow-up workflows.
+- AI-assisted business workflows and recommendations.
+
+🔗 **GitHub Repository:**  
+Coming Soon
+
+#### 🤖 4. AI-Powered Features
+
+The platform includes AI-assisted capabilities designed to improve customer experiences and support business decisions.
+
+**AI Features:**
+
+- Personalized property recommendations based on customer journeys.
+- Trending property recommendations for visitors.
+- Content-based and hybrid recommendation approaches for leads and clients.
+- AI-powered Lead Scoring and lead prioritization.
+- Customer segmentation.
+- Employee recommendation and assignment support.
+- Sales forecasting.
+- Conversation insights.
+
+**Property Price Estimation:**
+
+A prototype AI service for estimating property prices using image-based and numerical property features, combining EfficientNet-B3 and XGBoost.
+
+*Note: The property price estimation functionality was developed as a prototype / standalone service and is not presented as a fully integrated production feature.*
+
+#### 👨‍💻 My Role & Contributions
+
+I co-conceived and contributed to the design and development of this real estate CRM ecosystem, working with a frontend teammate to define the product concept, system structure, business workflows, user roles, permissions, and interactions between its different applications.
+
+My primary development focus was on the two Flutter mobile applications:
+
+- **Customer Mobile Application:** Developed core customer-facing features and workflows for property discovery, requests, communication, and interaction with the platform.
+- **Property Inspector / Real Estate Consultant Application:** Developed the consultant-facing application and its property request, scheduling, and inspection workflows.
+
+I also contributed throughout the development of the Flutter Web CRM, supporting the company's internal management workflows and the different employee and management roles.
+
+One of my individual contributions was independently designing and implementing the **Virtual Tour** feature and integrating it with Firebase, adding an important capability to the customer experience.
+
+#### 🧰 Technologies & Tools
+
+**Frontend:**
+Flutter · Dart · Flutter Web · Provider · Clean Architecture
+
+**Backend & APIs:**
+REST APIs · Node.js · Express.js · Python · Flask
+
+**Databases & Storage:**
+PostgreSQL · Firebase Firestore · Hive
+
+**Real-Time & Cloud Services:**
+Socket.IO · Firebase · Cloudinary
+
+**Maps & Location:**
+OpenStreetMap
+
+**Additional Technologies:**
+Authentication · OTP · Role-Based Access Control · Real-Time Chat · Notifications · AI/ML Integration
 
 ---
 
@@ -88,15 +208,16 @@ A multi-role study hall management and booking platform designed to simplify the
 The platform provides a dedicated experience for students and lecturers, as well as management functionality for study hall owners.
 
 **Key Features:**
-- Browse, search, and filter available study halls
-- View hall details, facilities, capacity, and location
-- Interactive maps using OpenStreetMap
-- Booking management by date, time, and seat quantity
-- Favorites and user profiles
-- OTP Authentication
-- Study hall management for owners
-- Manage hall information, images, services, and operating hours
-- Monitor and manage bookings
+
+- Browse, search, and filter available study halls.
+- View hall details, facilities, capacity, and location.
+- Interactive maps using OpenStreetMap.
+- Booking management by date, time, and seat quantity.
+- Favorites and user profiles.
+- OTP Authentication.
+- Study hall management for owners.
+- Manage hall information, images, services, and operating hours.
+- Monitor and manage bookings.
 
 **My Contribution:**
 
@@ -118,14 +239,15 @@ An educational technology platform prototype built with Flutter, designed to pro
 The application provides an interactive learning experience through courses, lessons, video content, quizzes, and student progress tracking.
 
 **Key Features:**
-- Course and lesson browsing
-- Course details and learning content
-- YouTube-based video lessons
-- Questions and quiz results
-- Student progress tracking
-- Favorites
-- Personal notes
-- Onboarding and authentication flows
+
+- Course and lesson browsing.
+- Course details and learning content.
+- YouTube-based video lessons.
+- Questions and quiz results.
+- Student progress tracking.
+- Favorites.
+- Personal notes.
+- Onboarding and authentication flows.
 
 **My Contribution:**
 
@@ -151,6 +273,7 @@ Flutter · Dart · SQLite · Local Storage · YouTube Integration
 Worked on an educational technology platform prototype using Flutter.
 
 **Responsibilities & Contributions:**
+
 - Developed application interfaces and core user flows.
 - Implemented courses, lessons, and video content.
 - Developed questions and quizzes.
