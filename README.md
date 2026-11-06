@@ -111,6 +111,37 @@ Flutter · Dart · Django · Python · PostgreSQL · REST APIs · SharedPreferen
 
 ---
 
+### 📚 Apex – Educational Technology Platform
+
+An educational technology platform prototype built with Flutter, designed to provide a structured learning experience around technical topics such as Programming, Artificial Intelligence, UI/UX, and Prompt Engineering.
+
+The application provides an interactive learning experience through courses, lessons, video content, quizzes, and student progress tracking.
+
+**Key Features:**
+- Course and lesson browsing
+- Course details and learning content
+- YouTube-based video lessons
+- Questions and quiz results
+- Student progress tracking
+- Favorites
+- Personal notes
+- Onboarding and authentication flows
+
+**My Contribution:**
+
+Developed and implemented the Flutter mobile application and its learning experience, including course structures, lesson flows, YouTube video integration, quiz functionality, progress tracking, and local data management.
+
+**Technologies:**
+
+Flutter · Dart · SQLite · Local Storage · YouTube Integration
+
+**Note:** This project is a prototype/product demo. Course and lesson data are stored locally rather than connected to a production backend.
+
+🔗 **GitHub Repository:**  
+[Apex – Educational Technology Platform](https://github.com/AhmadAdnanIssa/Apex_App)
+
+---
+
 ## 💼 Professional Experience
 
 ### Apex Team — Flutter Developer (Contract)
