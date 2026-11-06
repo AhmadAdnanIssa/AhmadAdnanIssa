@@ -284,7 +284,30 @@ Worked on an educational technology platform prototype using Flutter.
 
 Collaborated with the team to implement and improve application features based on project requirements.
 
----
+
+------------------------------------------------------------------------
+
+## 📚 Learning & Training Projects
+
+Alongside my main projects, I work on smaller training projects and
+coding exercises as part of my continuous learning journey. These
+projects help me practice Flutter and Dart fundamentals, explore UI
+development, and gradually strengthen my development skills.
+
+### 🎂 1. Birthday Card -- First Flutter Training Project
+
+My first small Flutter training project: a simple and colorful birthday
+greeting card built while following lessons with **Tharwa Sami**.
+
+The project focuses on basic Flutter app structure, using `MaterialApp`
+and `Scaffold`, arranging content with `Center`, and displaying a local
+image asset.
+
+🔗 **GitHub Repository:**\
+[Birthday Card App](https://github.com/AhmadAdnanIssa/Birthday_Card_App)
+
+------------------------------------------------------------------------
+
 
 ## 📚 Learning & Training Projects
 
