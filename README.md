@@ -1,73 +1,59 @@
-<h1 align="center">Hi, I'm Ahmad Issa 👋</h1>
+# 👋 Hi, I'm Ahmad Issa
 
-<h3 align="center">Flutter Developer | Mobile & Web Applications</h3>
+### Flutter Developer | Mobile & Web Applications
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-Developer-02569B?logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-Developer-0175C2?logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter%20Web-Developer-4285F4?logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Clean%20Architecture-Experienced-success" />
-  <img src="https://img.shields.io/badge/Flutter%20Web-Experienced-4285F4" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Flutter Developer** focused on building practical, scalable mobile and web applications using **Flutter and Dart**.
+I'm a Flutter Developer specializing in building mobile and web applications using Flutter and Dart.
 
-I have hands-on experience building complete features and working with:
+I have practical experience developing complete application features, integrating REST APIs, implementing Clean Architecture, and working with real-time communication and cloud services.
 
-- Clean Architecture
-- REST APIs
-- Authentication & role-based access
-- Local storage
-- Real-time communication
-- Maps & location-based features
-- Notifications
-- Firebase & Firestore
-- Flutter Web
+My experience includes:
 
-I enjoy turning product requirements into functional applications and continuously improving my development skills through real-world projects.
+- Mobile and Web Application Development
+- Clean Architecture and State Management
+- REST API Integration
+- Authentication and Role-Based Access
+- Real-Time Communication
+- Local Storage and Database Integration
+- Maps and Location-Based Features
+- Firebase and Cloud Services
+
+I enjoy building practical applications, solving real-world problems, and writing clean, maintainable code.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 📱 Mobile & Web
-- Flutter
-- Dart
-- Flutter Web
+**Mobile & Web Development**
+- Flutter, Dart, Flutter Web
 
-### 🏗️ Architecture & State Management
-- Clean Architecture
-- Provider
+**Architecture & State Management**
+- Clean Architecture, Provider
 
-### 🔌 APIs & Backend Integration
-- REST APIs
-- JSON
-- Authentication
-- OTP
-- Role-Based Access
+**Backend Integration**
+- REST APIs, JSON, Authentication, OTP
 
-### 🗄️ Databases & Storage
-- PostgreSQL
-- SQLite
-- Hive
-- Firebase Firestore
-- SharedPreferences
+**Databases & Local Storage**
+- PostgreSQL, SQLite, Hive, Firebase Firestore, SharedPreferences
 
-### ⚡ Real-Time & Cloud
-- Socket.IO
-- Firebase
-- Cloudinary
+**Real-Time & Cloud Services**
+- Socket.IO, Firebase, Cloudinary
 
-### 🗺️ Maps & Location
-- OpenStreetMap
-- Location-based Features
+**Maps & Location**
+- OpenStreetMap, Location-Based Services
 
-### 🧰 Tools
-- Git
-- GitHub
+**Tools**
+- Git, GitHub, Postman
 
 ---
 
@@ -75,108 +61,104 @@ I enjoy turning product requirements into functional applications and continuous
 
 ### 🏢 AI-Powered Real Estate CRM System
 
-A multi-component real estate ecosystem built with Flutter, including mobile applications and a Flutter Web CRM.
+A multi-component real estate management ecosystem built with Flutter, including mobile applications and a web-based CRM.
 
-Worked on features such as:
+The system includes customer and real estate consultant applications, along with a Flutter Web CRM for managing properties, customers, employees, and business operations.
 
-- Property search and filtering
-- Property recommendations
-- Customer requests
-- Notifications
-- Chat and real-time communication
-- Scheduling
-- Role-based access
-- Authentication and permissions
-- Maps and location features
-- Local storage
-- AI-powered recommendations
-- Lead scoring
-- Employee recommendation for deal assignment
+**Key Features:**
+- Property search, filtering, and recommendations
+- Customer requests and lead management
+- Real-time chat and notifications
+- Scheduling and appointment management
+- Role-Based Access Control
+- AI-Powered Lead Scoring
+- Customer and Employee Recommendations
+- Maps and location-based features
 
-**Technologies:**  
+**Technologies:**
+
 Flutter · Dart · Flutter Web · Clean Architecture · Provider · REST APIs · Node.js · PostgreSQL · Socket.IO · Firebase · Hive · OpenStreetMap
 
 ---
 
-### 🏫 Study Hall Management Platform
+### 🏫 Study Hall Management System
 
-A multi-role study hall management and booking platform built with Flutter.
+A multi-role study hall management and booking platform designed to simplify the discovery, management, and reservation of study spaces.
 
-Features include:
+The platform provides a dedicated experience for students and lecturers, as well as management functionality for study hall owners.
 
-- Study hall browsing and search
-- Filtering and hall details
-- Maps and locations
-- Favorites
-- Authentication and profiles
-- Booking system
-- Hall management
-- Operating hours and capacity management
-- Image management
-- Role-based functionality
-- REST API integration
-- Local persistence
+**Key Features:**
+- Browse, search, and filter available study halls
+- View hall details, facilities, capacity, and location
+- Interactive maps using OpenStreetMap
+- Booking management by date, time, and seat quantity
+- Favorites and user profiles
+- OTP Authentication
+- Study hall management for owners
+- Manage hall information, images, services, and operating hours
+- Monitor and manage bookings
 
-**Technologies:**  
-Flutter · Dart · Django REST API · Python · PostgreSQL · SharedPreferences · OpenStreetMap
+**My Contribution:**
+
+Worked on the Flutter client application, implementing core features, authentication, booking workflows, local persistence, and REST API integration.
+
+**Technologies:**
+
+Flutter · Dart · Django · Python · PostgreSQL · REST APIs · SharedPreferences · OpenStreetMap
+
+🔗 **GitHub Repository:**  
+[Study Hall Management System](https://github.com/AhmadAdnanIssa/study-hall-management-system)
 
 ---
 
 ## 💼 Professional Experience
 
-### Apex Team — Flutter Developer
+### Apex Team — Flutter Developer (Contract)
 
-**Sep 2024 – Feb 2025**
+**September 2024 – February 2025**
 
 Worked on an educational technology platform prototype using Flutter.
 
-Implemented features including:
+**Responsibilities & Contributions:**
+- Developed application interfaces and core user flows.
+- Implemented courses, lessons, and video content.
+- Developed questions and quizzes.
+- Implemented learning progress tracking and favorites.
+- Added notes functionality.
+- Used SQLite for local data storage.
+- Integrated YouTube videos.
 
-- Courses and lessons
-- Videos
-- Questions and quizzes
-- Progress tracking
-- Favorites
-- Notes
-- SQLite local storage
-- YouTube integration
-
-Collaborated with the team to implement and refine features according to project requirements.
+Collaborated with the team to implement and improve application features based on project requirements.
 
 ---
 
 ## 📚 Learning & Training Projects
 
-I also maintain smaller projects and experiments that document my development journey.
+I also maintain smaller projects and experiments that reflect my learning journey and continuous improvement in software development.
 
-These projects helped me strengthen my understanding of:
+These projects helped me strengthen my knowledge of:
 
-- Flutter & Dart fundamentals
-- UI development
-- Navigation
-- Forms & validation
-- State management
-- Local storage
-- API integration
+- Flutter and Dart Fundamentals
+- UI Development and Navigation
+- Forms and Validation
+- State Management
+- Local Storage
+- API Integration
 - Authentication
-- Testing
-- Application architecture
-
-These repositories represent different stages of my learning journey and document my progress as a developer.
+- Application Architecture
 
 ---
 
 ## 🎯 Currently Improving
 
-I'm continuously improving my skills in:
+I'm continuously working on improving my skills in:
 
-- Flutter architecture
-- Scalable application structure
-- Advanced API integration
-- Real-time communication
-- Flutter Web
-- Clean and maintainable code
-- Building complete, production-oriented features
+- Advanced Flutter Development
+- Scalable Application Architecture
+- Flutter Web Development
+- API Integration and Backend Communication
+- Real-Time Application Features
+- Clean and Maintainable Code
 
 ---
 
@@ -199,4 +181,6 @@ I'm continuously improving my skills in:
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile!</h3>
+<p align="center">
+  <strong>⭐ Thanks for visiting my profile!</strong>
+</p>
