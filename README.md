@@ -306,6 +306,29 @@ image asset.
 🔗 **GitHub Repository:**\
 [Birthday Card App](https://github.com/AhmadAdnanIssa/Birthday_Card_App)
 
+
+
+
+### 💼 2. Business Card — Second Flutter Training Project
+
+My second small Flutter training project, built while following lessons with **Tharwa Sami**.
+
+This project was a simple step forward in my Flutter learning journey, where I practiced some essential Flutter fundamentals, including:
+
+- Basic Flutter application structure
+- `MaterialApp` and `Scaffold`
+- Building layouts using `Column`
+- Working with `Text`, fonts, colors, and styling
+- Using local images with `AssetImage`
+- Using `CircleAvatar`, `Card`, and `ListTile`
+- Working with icons and dividers
+- Managing spacing and basic UI layout
+
+It was a simple project, but an important step in learning the fundamentals and building my confidence with Flutter.
+
+🔗 **GitHub Repository:**  
+[Business Card App](https://github.com/AhmadAdnanIssa/Business_Card_App)
+
 ------------------------------------------------------------------------
 
 
