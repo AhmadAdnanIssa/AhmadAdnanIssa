@@ -329,6 +329,28 @@ It was a simple project, but an important step in learning the fundamentals and 
 🔗 **GitHub Repository:**  
 [Business Card App](https://github.com/AhmadAdnanIssa/Business_Card_App)
 
+
+### 🏀 3. Basketball Points Counter — Third Flutter Training Project
+
+My third small Flutter training project, built as part of my continuous Flutter learning journey.
+
+A simple basketball scoreboard application that allows users to track points for two teams, add 1, 2, or 3 points, and reset the scores.
+
+Through this project, I practiced and learned several important Flutter concepts, including:
+
+- Working with `StatefulWidget` and understanding dynamic UI updates.
+- Using `setState()` to update the interface when data changes.
+- Managing simple application state using variables.
+- Building layouts with `Row` and `Column`.
+- Working with `ElevatedButton`, `Container`, and `VerticalDivider`.
+- Handling user interactions through `onPressed`.
+- Customizing widget styles, colors, sizes, and spacing.
+
+This project was an important step in my learning journey, as it was my first training project involving interactive UI updates based on user actions.
+
+🔗 **GitHub Repository:**  
+[Basketball Points Counter App](https://github.com/AhmadAdnanIssa/basketball_counter_app)
+
 ------------------------------------------------------------------------
 
 
