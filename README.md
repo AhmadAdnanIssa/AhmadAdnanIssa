@@ -351,6 +351,38 @@ This project was an important step in my learning journey, as it was my first tr
 🔗 **GitHub Repository:**  
 [Basketball Points Counter App](https://github.com/AhmadAdnanIssa/basketball_counter_app)
 
+
+
+### 🇯🇵 4. Toku — Fourth Flutter Training Project
+
+My fourth Flutter training project, built as part of my continuous learning journey while practicing Flutter and Dart.
+
+Toku is a simple Japanese learning application that helps users learn basic Japanese words through visual content and audio pronunciation.
+
+The application includes different learning categories such as Numbers, Family Members, and Phrases.
+
+**Through this project, I practiced and learned several important Flutter concepts, including:**
+
+- Understanding how to organize a Flutter project into separate folders for Components, Screens, and Models.
+- Building reusable UI components and separating them from screen implementations.
+- Creating data models using Dart classes and constructors.
+- Passing model objects between screens and reusable components.
+- Working with local assets, including images and audio files.
+- Displaying images using `Image.asset`.
+- Playing audio files using the `audioplayers` package.
+- Building dynamic lists using `ListView.builder`.
+- Implementing navigation between screens using `Navigator` and `MaterialPageRoute`.
+- Working with reusable widgets, `StatelessWidget`, and Flutter layout widgets.
+
+This project was an important step in my learning journey, as it was my first experience organizing a Flutter application using separate Components, Screens, and Models folders, while learning how to reuse UI elements and manage application assets more effectively.
+
+**Technologies:**
+
+Flutter · Dart · Material Design · audioplayers · Local Assets · Image Assets · Audio Assets
+
+🔗 **GitHub Repository:**  
+[Toku – Japanese Learning App](https://github.com/AhmadAdnanIssa/Toku_App)
+
 ------------------------------------------------------------------------
 
 
