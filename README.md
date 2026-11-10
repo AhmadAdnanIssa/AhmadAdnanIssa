@@ -383,6 +383,38 @@ Flutter · Dart · Material Design · audioplayers · Local Assets · Image Asse
 🔗 **GitHub Repository:**  
 [Toku – Japanese Learning App](https://github.com/AhmadAdnanIssa/Toku_App)
 
+
+
+### 🌤️ 5. Weather App — Fifth Flutter Training Project
+
+My fifth Flutter training project, built as part of my continuous Flutter and Dart learning journey.
+
+A simple weather application that allows users to search for a city and retrieve its weather information using WeatherAPI.
+
+The application displays weather conditions, average temperature, maximum and minimum temperatures, and dynamically changes its theme colors and weather images based on the weather condition.
+
+**Through this project, I practiced and learned several important Flutter concepts, including:**
+
+- Using Provider for state management.
+- Working with `ChangeNotifier` and `ChangeNotifierProvider`.
+- Sharing and updating application data using Provider.
+- Integrating REST APIs using the `http` package.
+- Sending HTTP GET requests and handling API responses.
+- Parsing JSON data and creating Dart model classes.
+- Handling asynchronous operations using `async` and `await`.
+- Working with `TextField` and user input.
+- Implementing navigation between screens.
+- Updating UI elements dynamically based on retrieved weather data.
+
+This project was an important milestone in my learning journey, as it was my first practical experience with Provider and one of my first experiences integrating an external REST API to fetch and display real data in a Flutter application.
+
+**Technologies:**
+
+Flutter · Dart · Provider · REST API · WeatherAPI · HTTP · JSON Parsing · Material Design
+
+🔗 **GitHub Repository:**  
+[Weather App](https://github.com/AhmadAdnanIssa/Weather_App)
+
 ------------------------------------------------------------------------
 
 
