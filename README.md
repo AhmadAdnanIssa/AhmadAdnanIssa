@@ -415,6 +415,41 @@ Flutter · Dart · Provider · REST API · WeatherAPI · HTTP · JSON Parsing ·
 🔗 **GitHub Repository:**  
 [Weather App](https://github.com/AhmadAdnanIssa/Weather_App)
 
+
+
+
+### 🛒 6. Store App — Sixth Flutter Training Project
+
+My sixth Flutter training project, built as part of my continuous Flutter and Dart learning journey while following lessons with **Tharwa Sami**.
+
+Store App is a simple e-commerce application that allows users to browse products, explore product categories, and perform basic product management operations using the Fake Store API.
+
+**Through this project, I practiced and learned several important Flutter concepts, including:**
+
+- Integrating REST APIs using the `http` package.
+- Sending HTTP GET, POST, and PUT requests.
+- Fetching products and retrieving product categories from an external API.
+- Filtering and displaying products based on their categories.
+- Parsing JSON responses and converting them into Dart model classes.
+- Working with asynchronous operations using `async` and `await`.
+- Displaying API data dynamically using `FutureBuilder`.
+- Building product grids using `GridView.builder`.
+- Passing data between screens using named routes and route arguments.
+- Implementing basic product creation and update operations.
+- Creating reusable UI components such as custom text fields, buttons, and product cards.
+- Handling loading states using `ModalProgressHUD`.
+- Organizing API communication into separate service classes and using a reusable API helper for HTTP requests.
+
+This project was an important step in my learning journey, as it helped me gain more practical experience working with REST APIs, handling dynamic data, and implementing basic CRUD operations in Flutter applications.
+
+**Technologies:**
+
+Flutter · Dart · REST API · Fake Store API · HTTP · JSON Parsing · FutureBuilder · Material Design
+
+🔗 **GitHub Repository:**  
+[Store App](https://github.com/AhmadAdnanIssa/Store_App)
+
+
 ------------------------------------------------------------------------
 
 
